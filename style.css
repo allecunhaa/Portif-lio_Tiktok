@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    background-color: #262626;
+    display: flex;
+}
+
+.menulateral{
+
+    width: 40px;
+    height: 800px;
+    background-color: #131212;
+
+    
+}
+
+.menulateral .logo{
+
+    width: 100px;
+    margin-left:-45px
+   
+               
+}
+
+.menulateral p{
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: -35px;
+    font-size: 20px;
+    color: white
+}
+
+
+
+.menulateral p{
+    color: white;
+    text-align: center;
+}
+
+.icone .home {
+
+    width: 20px;
+   display: flex;
+   margin-top: 100px;
+   padding: 10px;
+   
+
+}
+.icone .conta{
+    width: 25px;
+    display: flex;
+    margin-top: 30px;
+    padding: 5px;
+}
+.icone .email{
+    width: 25px;
+    display: flex;
+    margin-top: 30px;
+    padding: 5px;
+
+}
+
+.icone .linkedin{
+    width: 25px;
+    display: flex;
+    margin-top: 300px;
+    padding: 5px;
+
+
+}
+
+.icone .github{
+    width: 25px;
+    display: flex;
+    margin-top: 30px;
+    padding: 5px;
+}
+
+
+
+.description{
+
+    display: flex;
+    position: relative;
+   
+}
+
+.description .about{
+
+    margin-top: 180px;
+    margin-left: 62px;
+    font-weight: 600;
+    color: #F2F2F2;
+    font-size: 80px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+
+.description .about .imagem{
+
+ margin-top: -140px;
+ margin-left: 40px;
+}
+.description .about .img2{
+    margin-top: -172px;
+    margin-left: 205px;
+}
+
+.description p{
+    font-size: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+    
+}
+.description .botao{
+
+    width: 100px;
+    padding: 10px;
+    background-color:#131212;
+    color: #0CF2DB;
+    border-color: #0CF2DB;
+    font-weight: 100;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-size: 15px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
